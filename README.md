@@ -1,3 +1,4 @@
 # sy_for_R-
-self learning
+self learning.
+
 Basiclly let it lie waste.
